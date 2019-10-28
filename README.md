@@ -1,0 +1,1 @@
+# Smart Curtain Arduino Pseudocode
